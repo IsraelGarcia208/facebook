@@ -1,0 +1,228 @@
+body{
+    background: linear-gradient(to bottom right,blue);
+    height: 1200px;
+    
+}
+
+.principal{
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    background:#295F9E;
+    top:0;
+    left: 0;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo{
+    position: fixed;
+    top:0px;
+    left:200px;  
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.correo{
+    position: fixed;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    top: 15px;
+    left: 750px;
+}
+.contraseña{
+    position: fixed;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    top: 15px;
+    left: 950px;
+}
+.olvidaste{
+    position:fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top:65px;
+    left:950px;
+    font-size: 15px;
+    color:white;
+}
+
+div.forma1{
+    position: fixed;
+    color:white;
+    top:40px;
+    left:750px;
+    font-size: 14px;
+}
+div.formaPass{
+    position: fixed;
+    color:white;
+    top:40px;
+    left:950px;
+    font-size: 14px;
+}
+.sesion#iniciar{
+    position: fixed ;
+    background: blue;
+    top:40px;
+    left:1125px;
+    font-size: 13px;
+    height: 24px;
+    width: 56px;
+}
+div#creacion{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+position: fixed;
+color: black;
+top: 60px;
+left: 55%;
+font-size: 25px;
+}
+div#desc{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: fixed;
+    color:black;
+    top: 130px;
+    left: 55%;
+    font-size: 20px;
+}
+
+.nombre{
+    position: fixed;
+    background: white;
+    border-radius: 5px/5px;
+    top:200px;
+    left:55%;
+    height: 40px;
+    width: 235px;
+    font-size: 18px;
+}
+.apell{
+        position: fixed;
+        background: white;
+        border-radius: 5px/5px;
+        top:200px;
+        left:73%;
+        height: 40px;
+        width: 235px;
+        font-size: 18px;
+}
+.email{
+    position:fixed;
+    background: white;
+    border-radius: 5px/5px;
+    top:250px;
+    left:55%;
+    height: 40px;
+    width: 475px;
+    font-size: 18px;
+}
+.contra{
+    position: fixed;
+    background: white;
+    border-radius: 5px/5px;
+    top:300px;
+    left:55%;
+    height: 40px;
+    width: 475px;
+    font-size: 18px;
+}
+
+#letras{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 120px;
+    left:120px;
+    color:blue;
+    font-size: 25px;   
+}
+#letras2{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 155px;
+    left:120px;
+    font-size: 19px;
+    color:blue;
+}
+h5{
+    position:fixed;
+    top:320px;
+    left:55%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:gray;
+}
+.dias{
+   position: fixed;
+   top:387px;
+   left: 740px;
+}
+.meses{
+    position: fixed;
+    top:387px;
+    left: 785px;  
+}
+.años{
+    position: fixed;
+   top:387px;
+   left:839px;
+}
+.imagen{
+    position: fixed;
+    top:190px;
+    left:85px;
+}
+#sexo{
+    position: fixed;
+    top:375px;
+    left:55%;
+}
+.sexoH{
+    position: fixed;
+    top:440px;
+    left:62%;
+}
+.sexoM{
+    position: fixed;
+    top:440px;
+    left:55%;
+}
+.sexoP{
+    position: fixed;
+    top:440px;
+    left:70%;
+}
+h6{
+    position: fixed;
+    top:445px;
+    left:55%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    color: gray
+}
+#registrarse{
+    position: fixed;
+    top:545px;
+    left: 55%;
+    color: white;
+    background: green;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px/5px;
+}
+#pagina{
+    position: fixed;
+    top:587px;
+    left:55%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: gray;
+}
+#pie{
+    width: 980px;
+    height: 138px;
+}
